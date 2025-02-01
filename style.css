@@ -26,7 +26,7 @@ body {
 }
 
 .apresentacao__conteudo {
-    width: 30%;
+    width: 80%;
     display: flex;
     flex-direction: column;
     gap: 40px;

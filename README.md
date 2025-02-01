@@ -20,5 +20,3 @@ Durante o desenvolvimento deste portfólio, aprendemos e praticamos:
 O projeto resultante é um portfólio simples, responsivo e bem estruturado, demonstrando os conhecimentos adquiridos ao longo da atividade.  
 
 ---
-
-Feito com ❤️ por **[Seu Nome]**  

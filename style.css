@@ -66,3 +66,48 @@ img {
     max-width: 35%;
     padding-left: 30px;
 }
+
+
+@media (max-width: 1024px) {
+    .apresentacao {
+        margin: 5% 10%;
+        flex-direction: column;
+        text-align: center;
+    }
+
+    .apresentacao__conteudo {
+        width: 100%;
+    }
+
+    .apresentacao__links {
+        justify-content: center;
+    }
+
+    img {
+        max-width: 50%;
+    }
+}
+
+
+@media (max-width: 768px) {
+    .apresentacao {
+        margin: 5% 5%;
+    }
+
+    .apresentacao__conteudo__titulo {
+        font-size: 28px;
+    }
+
+    .apresentacao__conteudo__texto {
+        font-size: 18px;
+    }
+
+    .apresentacao__links__botoes {
+        width: 100%;
+        font-size: 20px;
+    }
+
+    img {
+        max-width: 80%;
+    }
+}

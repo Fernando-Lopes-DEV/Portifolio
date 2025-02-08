@@ -125,7 +125,10 @@ body{
 
     .apresentacao__conteudo{
         width: auto;
-        padding: 10%;
+    }
+
+    .apresentacao__conteudo__texto{
+        padding: 2%;
     }
     
 }
